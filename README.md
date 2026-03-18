@@ -126,12 +126,4 @@ Lightweight and scalable services:
 
 ---
 
-## 📬 Contact
-
-- 💼 Upwork: (add)
-- 🐦 X: (add)
-- 📩 Email: (optional)
-
----
-
 > Focused on turning messy, real-world problems into clean, reliable systems.
