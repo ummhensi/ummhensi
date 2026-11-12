@@ -1,9 +1,7 @@
-# hi
+# Hi, I'm Hensi 👋
 
-idk what to put here tbh
+Most of my repositories are private.
 
-chronically online, occasionally useful.
+For project access, collaborations, or inquiries, feel free to reach out:
 
-currently winging it.
-
-if you're reading this, go drink some water or something.
+📧 hensi@gladloop.com
